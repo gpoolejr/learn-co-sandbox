@@ -4,5 +4,7 @@ login = ["gary", "12345"]
 
 profile = ["gary", "12345", 4078564334, true]
 
+puts $FILENAME
+
 puts profile[2]
   
