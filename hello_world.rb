@@ -4,5 +4,5 @@ login = ["gary", "12345"]
 
 profile = ["gary", "12345", 4078564334, true]
 
-puts profile
+puts profile[2]
   
