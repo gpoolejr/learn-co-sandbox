@@ -1,11 +1,11 @@
-array = [1,2,3]
+# array = [1,2,3]
 
-login = ["gary", "12345"]
+# login = ["gary", "12345"]
 
-profile = ["gary", "12345", 4078564334, true]
-name = "gary"
+# profile = ["gary", "12345", 4078564334, true]
+# name = "gary"
 
-puts name
+# puts name
 
-puts profile[2]
+# puts profile[2]
   
